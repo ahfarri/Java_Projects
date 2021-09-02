@@ -1,0 +1,37 @@
+.navy {
+    color: navy;
+}
+
+.a {
+    text-decoration: none;
+}
+
+.f {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.f2 {
+    font-family:monospace;
+    font-size: 3em;
+}
+
+.body {
+    background-image: url(/images/piano.jpg);
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.txtsize {
+	font-size: 2em;
+	text-align:right;
+	}
+	
+.info {
+	font-size: 2em;
+	color: white;
+	}
+.head {
+	color: orange;
+	font-size: 3em;
+	}
